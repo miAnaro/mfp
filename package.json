@@ -1,0 +1,24 @@
+{
+  "name": "myProject",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miAnaro/mfp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miAnaro/mfp/issues"
+  },
+  "homepage": "https://github.com/miAnaro/mfp#readme",
+  "dependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
